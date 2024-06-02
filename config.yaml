@@ -25,7 +25,7 @@ languages:
         title: "Starry's blog"
         weight: 2
         params:
-            description: 演示说明
+            description: xx
 #    ar:
 #        languageName: عربي
 #        languagedirection: rtl
