@@ -38,7 +38,7 @@ mvnw.cmd
 .DS_Store
 Thumbs.db
 *rebel.xml
-
+.obsidian
 /.idea/workspace.xml
 /logs/
 public/
